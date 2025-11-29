@@ -87,6 +87,13 @@ body {
     text-transform: uppercase;
     font-size: 0.9rem;
 }
+.logo-img {
+    width: 62px;
+    height: 62px;
+    object-fit: cover;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+}
 
 .logo-dot {
     width: 10px;
